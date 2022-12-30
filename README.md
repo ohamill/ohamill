@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi there, I'm Owen 👋
+
+🏢 I'm employed as a Backend Developer in Stockholm, Sweden
+👨‍💻 I'm fluent in Java and Go, and conversational in C#
+🌱 I’m currently learning Haskell (and functional programming in general)
+👨‍🎓 I'm interested in DevOps, Kubernetes, and CI/CD pipelines as areas of future learning
+📫 You can reach me at oohamill@icloud.com
+😄 Pronouns: he / him
 
 <!--
 **ohamill/ohamill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
