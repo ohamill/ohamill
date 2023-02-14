@@ -4,7 +4,7 @@
 - 👨‍💻 I'm fluent in Java and Go, and conversational in C#
 - 🌱 I’m currently learning Haskell (and functional programming in general)
 - 👨‍🎓 I'm interested in DevOps, Kubernetes, and CI/CD pipelines as areas of future learning
-- 📫 You can reach me at oohamill@icloud.com
+- 📫 You can reach me at ohamill@proton.me
 - 😄 Pronouns: he / him
 
 <!--
