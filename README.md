@@ -2,8 +2,8 @@
 
 - 🏢 I'm employed as a Backend Developer in Stockholm, Sweden
 - 👨‍💻 I'm fluent in Java and Go, and conversational in C#
-- 🌱 I’m currently learning Haskell (and functional programming in general)
-- 👨‍🎓 I'm interested in DevOps, Kubernetes, and CI/CD pipelines as areas of future learning
+- 🌱 I’m currently developing [Aura](https://github.com/ohamill/aura-lang), a dynamically typed, interpreted programming language
+- 👨‍🎓 I'm interested in DevOps, Kubernetes, and programming language design as areas of future learning
 - 📫 You can reach me at ohamill@proton.me
 - 😄 Pronouns: he / him
 
