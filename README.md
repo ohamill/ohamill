@@ -1,7 +1,7 @@
 ### Hi there, I'm Owen 👋
 
 - 🏢 I'm employed as a Backend Developer in Stockholm, Sweden
-- 👨‍💻 I'm fluent in Java and Go, and conversational in C#
+- 👨‍💻 I'm fluent in Java and Go, and C#, and I'm currently learning Rust
 - 🌱 I’m currently developing [Aura](https://github.com/ohamill/aura-lang), a dynamically typed, interpreted programming language
 - 👨‍🎓 I'm interested in DevOps, Kubernetes, and programming language design as areas of future learning
 - 📫 You can reach me at ohamill@proton.me
