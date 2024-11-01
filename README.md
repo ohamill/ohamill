@@ -2,7 +2,7 @@
 
 - 🏢 I'm employed as a Backend Developer & Data Engineer in Stockholm, Sweden
 - 👨‍💻 I'm fluent in Go and Python, and I've previously worked professionally in Perl, C#, and Typescript.
-- 👨‍🎓 I'm interested in DevOps, data engineering, and programming language design as areas of future learning
+- 👨‍🎓 I'm interested in DevOps, data engineering, and programming language design as areas of continued learning
 - 📫 You can reach me at ohamill@proton.me
 - 😄 Pronouns: he / him
 
